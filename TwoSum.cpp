@@ -40,7 +40,8 @@ int main() {
 
     if (!ans.empty()) {
         cout << "Indices: " << ans[0] << " " << ans[1] << endl;
-    } else {
+    }
+    else {
         cout << "No valid pair found" << endl;
     }
 
